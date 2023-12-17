@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Circular+Std:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-circular-std: "Circular Std";
+  --font-varela-round: "Varela Round";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-4xs: 9px;
+  --font-size-3xl: 22px;
+  --font-size-36xl: 55px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blueviolet: #7854f7;
+  --color-darkslategray: #272d4e;
+  --color-black: #000;
+  --color-yellowgreen: #70c217;
+  --color-gray-100: #868686;
+  --color-gray-200: #222;
+  --color-whitesmoke: #f6f6f6;
+  --color-cornflowerblue: #299ef3;
+  --color-lightslategray: #94a2b3;
+  --color-goldenrod: #ffba49;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-41xl: 60px;
+  --br-3xs: 10px;
+}
